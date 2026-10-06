@@ -6,8 +6,14 @@
 
 
 ## <p> Sobre o Projeto </p>
-Criação de uma pequena infraestrutura LAN no packet Tracer utilizando 3 PCs (LAN-1 , LAN-2 , LAN-3) , 1 roteador (Cisco ISR 4331) , \
-3 switches (Cisco 2960-24TT).
+
+Diciplina:  **Infraestrutura de Comunicação** \
+Professor:  **Jymmy Barreto** 
+
+Criação de uma pequena infraestrutura LAN no packet Tracer utilizando:
+- 3 PCs (LAN-1 , LAN-2 , LAN-3)
+- 1 roteador (Cisco ISR 4331)  
+- 3 switches (Cisco 2960-24TT)
 
 ## <p> Topologia da Rede </p>
 
